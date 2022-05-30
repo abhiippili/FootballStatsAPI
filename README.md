@@ -1,7 +1,7 @@
 # FootballStatsAPI
 Displays information and statistics of football players, clubs and leagues around the world
 
-Tech Stack Used -
+**Tech Stack Used** -
 
 1.NodeJs
 
@@ -10,7 +10,7 @@ Tech Stack Used -
 3.Mongoose Driver for MongoDB 
 
 
-To get started-
+**To get started -**
 
 1.npm install for node modules
 
